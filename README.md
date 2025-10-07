@@ -1,6 +1,7 @@
 # Basic R training organized by EPHI
 
 **Authors:** [Leykun Getaneh](https://github.com/leykunget) 
+
 Welcome to the **Basic R Training** repository! This repository contains all the slides and materials for the R training program conducted by NDMC. The training covers key topics.
 
 ------------------------------------------------------------------------
