@@ -90,7 +90,6 @@ If you don’t already have R and RStudio, you must install R *before* you insta
 
 You can download the datasets from the following links:
 
--   [Download surveys.csv](https://drive.google.com/uc?export=download&id=1BanaMyyBYcSASAhgYHj0pIiskvVjrIhX)
 -   [Download yrbss.csv](https://drive.google.com/uc?export=download&id=1CAMbI977y1lYM0RrdTeWiB8eH-WvcD8Q)
 
 ------------------------------------------------------------------------
